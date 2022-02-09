@@ -35,9 +35,9 @@ function _0x3dc2(_0x4d22a2,_0x4bda1a){var _0x5e0a56=_0x5e0a();return _0x3dc2=fun
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
-global.fla = 'https://i.imgur.com/707WLbK.jpeg'
+global.fla = 'https://i.imgur.com/iJXDYyx.jpeg'
 
-global.watermark = '© Wizard-Ser'
+global.watermark = '© SLAYER'
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
